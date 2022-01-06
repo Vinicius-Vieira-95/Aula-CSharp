@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trat.Exceção", "Trat.Exce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genericos", "Genericos\Genericos.csproj", "{114E3444-3B6E-4756-899C-A2D26A066459}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoExtendido", "MetodoExtendido\MetodoExtendido.csproj", "{6569DCB6-CF0E-48FD-8C44-0980BA170598}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodoExtendido", "MetodoExtendido\MetodoExtendido.csproj", "{6569DCB6-CF0E-48FD-8C44-0980BA170598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewLINQ", "NewLINQ\NewLINQ.csproj", "{1EE40980-51E0-4E41-8C41-48C64A0C39DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{6569DCB6-CF0E-48FD-8C44-0980BA170598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6569DCB6-CF0E-48FD-8C44-0980BA170598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6569DCB6-CF0E-48FD-8C44-0980BA170598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE40980-51E0-4E41-8C41-48C64A0C39DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE40980-51E0-4E41-8C41-48C64A0C39DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE40980-51E0-4E41-8C41-48C64A0C39DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE40980-51E0-4E41-8C41-48C64A0C39DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

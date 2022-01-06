@@ -81,7 +81,6 @@ namespace Lista
                     Console.WriteLine("Enter with value of increase");
                     employes[i].UpdateSalry(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
                 }
-                else 
 
             }
 
